@@ -73,8 +73,8 @@ USB-C VBUS ----> BQ25887 Charger
 | X1                          |    1 | X322525MOB4SI crystal             | C9006       | [LCSC](https://www.lcsc.com/product-detail/C9006.html)     |        $2.00 |
 | X2                          |    1 | Q13FC1350000400 crystal           | C32346      | [LCSC](https://www.lcsc.com/product-detail/C32346.html)    |        $2.00 |
 |                             |      |                                   |             | **Estimated component subtotal**                           |  **$112.50** |
-|                             |      |                                   |             | **Shipping, taxes and price-change buffer**                |  **$101.50** |
-|                             |      |                                   |             | **Estimated total budget**                                 |  **$214.00** |
+|                             |      |                                   |             | **Shipping, taxes and price-change buffer**                |  **$11.50** |
+|                             |      |                                   |             | **Estimated total budget**                                 |  **$124.00** |
 
 > Prices are intentionally conservative estimates and may differ from the final LCSC cart because of stock changes, minimum-order quantities, taxes and shipping.
 
