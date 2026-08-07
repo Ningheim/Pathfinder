@@ -29,6 +29,22 @@ USB-C VBUS ----> BQ25887 Charger
 ```
 
 ## BOM
+Here's a shortened version of the Bill of Materials, you can see the concise entirety of it in production/bom.csv but this consists of the main parts of it:
+## Estimated Component Cost
+
+| Component group                         | Approx. cost |
+| --------------------------------------- | -----------: |
+| Microcontroller and integrated circuits |       $28.00 |
+| Motion and environmental sensors        |       $15.00 |
+| Capacitors                              |       $10.00 |
+| Resistors                               |        $8.00 |
+| Inductors and ferrite bead              |        $7.00 |
+| USB-C, microSD and other connectors     |        $9.00 |
+| Switches, crystals and LED              |        $5.00 |
+| Spare components and price variation    |       $12.00 |
+| **Estimated component total**           |   **$94.00** |
+| **Shipping Costs**                      |   **$30.00** |
+**$124 budget**.
 
 
 
