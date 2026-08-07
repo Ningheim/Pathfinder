@@ -42,7 +42,7 @@ Here's a shortened version of the Bill of Materials, you can see the concise ent
 | USB-C, microSD and other connectors     |        $9.00 |
 | Switches, crystals and LED              |        $5.00 |
 | Spare components and price variation    |       $12.00 |
-| **Estimated component total**           |   $94.00     |
+| Estimated component total         |   $94.00     |
 | **Shipping Costs**                      |   **$30.00** |
 | **Estimated Total**                     |   **$124.00**|
 
