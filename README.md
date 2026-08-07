@@ -56,3 +56,5 @@ Here's a shortened version of the Bill of Materials, you can see the concise ent
 4. Generate a BOM and assemble with a stencil, paste, and reflow.
 5. Power up: 2S LIPO pack on the battery pad, `J2`.
 6. Flash: hold `SW2`, reset with `SW1`, flash over `USB1`.
+
+Note for shippers: The gerber is SimpleFlightController.zip in the production folder with the bom.csv
