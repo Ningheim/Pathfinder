@@ -1,4 +1,4 @@
-# SimpleFlightController
+# Pathfinder
 
 <img width="733" height="611" alt="image" src="https://github.com/user-attachments/assets/fc7a2fe0-a7a5-4bca-8948-eb34f9dd7004" />
 
@@ -18,6 +18,8 @@ This is a USB-C powered 2-layer flight controller built around the STM32F722. It
 - Board: 50x55mm, 2-layer, KiCad 
 - the hardware folder has the KiCad files. Run lcsc.py first to get parts KiCAD didn't have. This came from the hack club guide.
 
+I decided to implement most of these parts myself to differentiate this project with the guide I followed. This, in turn, made it a little more difficult but I'm extremely excited to get it done!
+
 ## Power architecture
 
 ```
@@ -25,6 +27,10 @@ This is a USB-C powered 2-layer flight controller built around the STM32F722. It
 
 USB-C VBUS ----> BQ25887 Charger
 ```
+
+## BOM
+
+
 
 ## How To Make It Yourself
 
