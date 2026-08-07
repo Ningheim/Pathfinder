@@ -2,7 +2,7 @@
 
 <img width="733" height="611" alt="image" src="https://github.com/user-attachments/assets/fc7a2fe0-a7a5-4bca-8948-eb34f9dd7004" />
 
-This is a USB-C powered 2-layer flight controller built around the STM32F722. It's 2S LiPo/Li-ion battery, a 6-axis IMU, a barometer, microSD logging, and two servo outputs.
+This is a USB-C powered 2-layer flight controller built around the STM32F722. It's 2S LiPo/Li-ion battery, a 6-axis IMU, a barometer, microSD logging, and two servo outputs. Lots of the sensors I used on this haven't been seen on much other flight controllers including the one I used the guide from. Feel free to use this for hobbyist and competition rocketry!
 
 ## List of Materials
 
