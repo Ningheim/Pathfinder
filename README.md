@@ -44,7 +44,7 @@ Here's a shortened version of the Bill of Materials, you can see the concise ent
 | Spare components and price variation    |       $12.00 |
 | **Estimated component total**           |   **$94.00** |
 | **Shipping Costs**                      |   **$30.00** |
-**$124 budget**.
+**$124 budget**
 
 
 
